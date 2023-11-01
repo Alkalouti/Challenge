@@ -42,6 +42,11 @@ Getting Started
 6.  Change the scheme to "MoviesApp" by selecting it from the Xcode toolbar.
 7.  Press the "Run" button to build and run the Movie List App on your simulator or device.
 
+Customization
+-------------
+
+You can customize the app by changing the token and controlling logging for NetworkKit from the App delegate. Be sure to explore the App delegate for these options.
+
 License
 -------
 
