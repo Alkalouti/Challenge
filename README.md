@@ -20,6 +20,11 @@ MVVM is an architectural pattern that separates an application into three compon
 
 Combine is a framework introduced by Apple that provides a declarative Swift API for processing values over time. It's used in this app for managing asynchronous operations, event handling, and data flow, enhancing the reactivity and maintainability of the codebase. Explore Combine [here](https://developer.apple.com/documentation/combine).
 
+Unit Tests
+----------
+
+This project includes a comprehensive suite of unit tests to ensure the reliability and correctness of the code. Unit tests are an integral part of the development process and play a crucial role in maintaining code quality and functionality. These tests are designed to validate various components and functions within the application, helping to identify and prevent potential issues.
+
 Getting Started
 ---------------
 
