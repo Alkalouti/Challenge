@@ -3,12 +3,14 @@ Movie List App
 
 This Movie List App is built using clean code principles inspired by [Uncle Bob](https://blog.cleancoder.com/) (Robert C. Martin) and follows the [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) (Model-View-ViewModel) architecture pattern. The app leverages [Combine](https://developer.apple.com/documentation/combine) for handling asynchronous events and data flow.
 
+Clean Code Principles
+---------------------
+
+This project follows clean code principles inspired by [Uncle Bob](https://blog.cleancoder.com/) (Robert C. Martin). Clean code emphasizes readability, maintainability, and the organization of code for better software development. It helps create a codebase that is easy to understand and maintain.
+
+
 Technologies Used
 -----------------
-
-### Uncle Bob's Clean Code
-
-Uncle Bob, also known as Robert C. Martin, is a well-respected software engineer and author known for his work on [clean code practices](https://blog.cleancoder.com/). The app's codebase adheres to clean code principles, which emphasize readability, maintainability, and the organization of code for better software development.
 
 ### MVVM (Model-View-ViewModel) Architecture
 
